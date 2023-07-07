@@ -7,6 +7,7 @@ The goal of this project is to gain insights into the film industry by analyzing
 
 **Dataset**
 The dataset used for analysis is sourced from Kaggle's IMDb Datasets. It includes comprehensive information about movies, such as titles, release dates, genres, ratings, directors, actors, budgets, and revenues. The dataset is provided in a CSV format and is available for download from the IMDb Datasets collection on Kaggle.
+
 #IMDB dataset link in kaggle : https://www,kaggle.com/datasets/PromptCloudHQ/imdb-data
 
 **Requirements**
