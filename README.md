@@ -13,12 +13,11 @@ The dataset used for analysis is sourced from Kaggle's IMDb Datasets. It include
 **Requirements**
 To run the analysis code, you'll need the following:
 
-Python 3.x
-Jupyter Notebook
-pandas
-matplotlib
-seaborn
-scikit-learn (for sentiment analysis, if applicable)
+Python 3.x,
+Jupyter Notebook,
+pandas,
+matplotlib,
+seaborn,
 You can install the required Python packages using pip or conda.
 
 **Code Structure**
