@@ -1,5 +1,5 @@
 # CVIP-DATA-SCIENCE
-****IMDb Data Analysis Project****
+****Phase -1: Task -1.IMDb Data Analysis Project****
 
 This project focuses on analyzing IMDb (Internet Movie Database) data using Jupyter Notebook. The dataset used for analysis is obtained from Kaggle, specifically the IMDb Datasets collection.
 
