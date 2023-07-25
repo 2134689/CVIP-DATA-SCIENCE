@@ -1,18 +1,29 @@
 ****Task-1: Diabetes Prediction [Normal Task Phase-2]****
 
 **Overview**
+
 This repository contains a machine learning project that utilizes Logistic Regression for diabetes prediction. The project is implemented in a Jupyter Notebook and comes with an interactive user interface created using Gradio. The model predicts whether an individual is diabetic or not based on various health-related features.
 
 **Table of Contents**
+
 Introduction
+
 Dataset
+
 Dependencies
+
 Installation
+
 Usage
+
 Model Training
+
 Model Evaluation
+
 Interactive User Interface
+
 Contributing
+
 License
 
 **Introduction**
@@ -28,10 +39,15 @@ The dataset used for training and testing the model is sourced from kaggle (Diab
 To run the project, you need the following dependencies:
 
 Python 3.x
+
 Jupyter Notebook
+
 Pandas
+
 NumPy
+
 Scikit-learn
+
 Gradio
 
 **Installation**
